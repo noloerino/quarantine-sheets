@@ -1,0 +1,4 @@
+*.band/
+*.mp3
+*.mid
+.DS_Store
